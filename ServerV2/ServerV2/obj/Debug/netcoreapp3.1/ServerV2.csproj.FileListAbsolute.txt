@@ -1,0 +1,13 @@
+C:\Users\ilpo\source\repos\ServerV2\ServerV2\bin\Debug\netcoreapp3.1\ServerV2.exe
+C:\Users\ilpo\source\repos\ServerV2\ServerV2\bin\Debug\netcoreapp3.1\ServerV2.deps.json
+C:\Users\ilpo\source\repos\ServerV2\ServerV2\bin\Debug\netcoreapp3.1\ServerV2.runtimeconfig.json
+C:\Users\ilpo\source\repos\ServerV2\ServerV2\bin\Debug\netcoreapp3.1\ServerV2.runtimeconfig.dev.json
+C:\Users\ilpo\source\repos\ServerV2\ServerV2\bin\Debug\netcoreapp3.1\ServerV2.dll
+C:\Users\ilpo\source\repos\ServerV2\ServerV2\bin\Debug\netcoreapp3.1\ServerV2.pdb
+C:\Users\ilpo\source\repos\ServerV2\ServerV2\obj\Debug\netcoreapp3.1\ServerV2.csprojAssemblyReference.cache
+C:\Users\ilpo\source\repos\ServerV2\ServerV2\obj\Debug\netcoreapp3.1\ServerV2.AssemblyInfoInputs.cache
+C:\Users\ilpo\source\repos\ServerV2\ServerV2\obj\Debug\netcoreapp3.1\ServerV2.AssemblyInfo.cs
+C:\Users\ilpo\source\repos\ServerV2\ServerV2\obj\Debug\netcoreapp3.1\ServerV2.csproj.CoreCompileInputs.cache
+C:\Users\ilpo\source\repos\ServerV2\ServerV2\obj\Debug\netcoreapp3.1\ServerV2.dll
+C:\Users\ilpo\source\repos\ServerV2\ServerV2\obj\Debug\netcoreapp3.1\ServerV2.pdb
+C:\Users\ilpo\source\repos\ServerV2\ServerV2\obj\Debug\netcoreapp3.1\ServerV2.genruntimeconfig.cache

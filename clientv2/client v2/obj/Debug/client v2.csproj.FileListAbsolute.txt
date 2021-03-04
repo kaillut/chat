@@ -1,0 +1,11 @@
+C:\Users\ilpo\source\repos\clientv2\client v2\bin\Debug\client v2.exe.config
+C:\Users\ilpo\source\repos\clientv2\client v2\bin\Debug\client v2.exe
+C:\Users\ilpo\source\repos\clientv2\client v2\bin\Debug\client v2.pdb
+C:\Users\ilpo\source\repos\clientv2\client v2\obj\Debug\client v2.csprojAssemblyReference.cache
+C:\Users\ilpo\source\repos\clientv2\client v2\obj\Debug\client_v2.Form1.resources
+C:\Users\ilpo\source\repos\clientv2\client v2\obj\Debug\client_v2.Properties.Resources.resources
+C:\Users\ilpo\source\repos\clientv2\client v2\obj\Debug\client v2.csproj.GenerateResource.cache
+C:\Users\ilpo\source\repos\clientv2\client v2\obj\Debug\client v2.csproj.CoreCompileInputs.cache
+C:\Users\ilpo\source\repos\clientv2\client v2\obj\Debug\client v2.exe
+C:\Users\ilpo\source\repos\clientv2\client v2\obj\Debug\client v2.pdb
+C:\Users\ilpo\source\repos\clientv2\client v2\obj\Debug\client_v2.FMain.resources
